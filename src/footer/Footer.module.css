@@ -1,0 +1,27 @@
+.mainBlock {
+    background-color: rgba(137, 232, 210, 0.54);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+
+}
+.footerContainer {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.title {
+
+}
+.snBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.sn {
+    border: 1px solid;
+    height: 80px;
+    width: 80px;
+}

@@ -1,0 +1,30 @@
+.project {
+    border: 1px solid;
+    width: 240px;
+    background-color: #cecc80;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.previewContainer {
+background-color: cadetblue;
+}
+.descriptionContainer {
+background-color: #92b7d5;
+    text-align: start;
+    width: 220px;
+}
+.preview {
+    width: 240px;
+    height:240px;
+    background-color: #8a00da;
+}
+.title {
+    background-color: rgba(232, 137, 170, 0.76);
+    margin: 0px;
+}
+.description {
+
+}
