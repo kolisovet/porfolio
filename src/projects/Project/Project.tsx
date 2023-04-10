@@ -11,11 +11,10 @@ function Project(props: PropsType) {
         <div className={style.project}>
             <div className={style.previewContainer}>
                 <div className={style.preview}>
-
+                    <button className={style.button}>
+                        View
+                    </button>
                 </div>
-                <button className={style.button}>
-                    View
-                </button>
             </div>
                 <div className={style.descriptionContainer}>
                 <h3 className={style.title}>

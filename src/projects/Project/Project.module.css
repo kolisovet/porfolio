@@ -8,23 +8,39 @@
     align-items: center;
     text-align: center;
 }
+
 .previewContainer {
-background-color: cadetblue;
+    background-color: cadetblue;
 }
+
 .descriptionContainer {
-background-color: #92b7d5;
+    background-color: #92b7d5;
     text-align: start;
     width: 220px;
 }
+
 .preview {
     width: 240px;
-    height:240px;
+    height: 240px;
     background-color: #8a00da;
+    background-image: url("//");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 .title {
     background-color: rgba(232, 137, 170, 0.76);
     margin: 0px;
 }
+
 .description {
 
+}
+
+.button {
+    height: 40px;
+    width: 100px;
 }

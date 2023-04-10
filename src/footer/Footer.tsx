@@ -7,14 +7,11 @@ function Footer() {
         <div className={style.mainBlock}>
             <div className={`${styleContainer.container} ${style.footerContainer}`}>
                 <h2 className={style.title}>Ivan Kolesov</h2>
-                <div className={style.form}>
-
-                        <div className={style.snBox}>
-                            <div className={style.sn}>1</div>
-                            <div className={style.sn}>2</div>
-                            <div className={style.sn}>3</div>
-                            <div className={style.sn}>4</div>
-                        </div>
+                <div className={style.snBox}>
+                    <div className={style.sn}>1</div>
+                    <div className={style.sn}>2</div>
+                    <div className={style.sn}>3</div>
+                    <div className={style.sn}>4</div>
                 </div>
                 <h2 className={style.title}>2023 All rights reserved</h2>
             </div>
